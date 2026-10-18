@@ -1,16 +1,26 @@
-  ## Hi there 👋
+# Aryan Dwivedi
 
-  
-**AryanDwivedi19/AryanDwivedi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+I'm focused on building a strong foundation in software development, problem-solving, and AI engineering through consistent learning and hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+- Python programming and problem-solving
+- Data Structures and Algorithms
+- Git and GitHub workflows
+- Building practical software projects
+
+### Technologies
+- **Languages:** Python, HTML, CSS, JavaScript *(learning)*
+- **Tools:** Git, GitHub, VS Code
+- **Interests:** Artificial Intelligence, Backend Development, Software Engineering
+
+### Projects
+I'm working on practical projects to strengthen my programming fundamentals and develop real-world engineering skills. My repositories document my learning and progress.
+
+### Connect
+- GitHub: [AryanDwivedi19](https://github.com/AryanDwivedi19)
+
+---
+
+*Focused on learning, building, and improving through practice.*
